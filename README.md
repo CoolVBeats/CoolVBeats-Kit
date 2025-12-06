@@ -1,2 +1,3 @@
-# CoolVBeats-Kit
-CoolVBeats Presets, Samples, and Drum Kits
+# CoolVBeats Sound Pack
+
+Presets, Samples, SoundFonts, Drum Kits, Effects, Vocals, and more...
